@@ -157,7 +157,6 @@ Logistic Regression demonstrated the strongest overall balance, particularly in 
 Student-Dropout-Prediction/
 │
 ├── Student_Dropout_Prediction.ipynb
-├── data.csv
 └── README.md
 ```
 
