@@ -141,7 +141,8 @@ Logistic Regression demonstrated the strongest overall balance, particularly in 
 
 ## 📸 Project Results and Visualizations
 
-![Student Dropout Prediction Results](student_dropout_results_collage.png)
+<img width="711" height="607" alt="image" src="https://github.com/user-attachments/assets/0a50d10c-abe5-4d32-a078-308419a5169b" />
+
 
 **Important Features Identified:**
 - GPA
